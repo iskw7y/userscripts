@@ -5,3 +5,5 @@
 
 - [テキストのURLをリンクへ変換する](https://github.com/iskw7y/userscripts/raw/master/scripts/text-url-linker.user.js)  
   テキストのURLをリンクへ変換します。後から読み込まれるテキストにも反応します。
+- [ハーメルンのしおりをソートする](https://github.com/iskw7y/userscripts/raw/master/scripts/hameln-bookmark-sorter.user.js)  
+  ハーメルンのしおりを「削除された小説・未読の小説・既読の小説」の順へソートします。
