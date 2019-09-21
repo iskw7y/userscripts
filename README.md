@@ -7,3 +7,5 @@
   テキストのURLをリンクへ変換します。後から読み込まれるテキストにも反応します。
 - [ハーメルンのしおりをソートする](https://github.com/iskw7y/userscripts/raw/master/scripts/hameln-bookmark-sorter.user.js)  
   ハーメルンのしおりを「削除された小説・未読の小説・既読の小説」の順へソートします。
+- [YouTubeの配信予定のセルを抽出表示する](https://github.com/iskw7y/userscripts/raw/master/scripts/youtube-upcoming-filter.user.js)  
+  YouTubeの配信予定のセルを抽出表示するショートカットキーを追加します。
